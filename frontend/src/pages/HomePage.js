@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/components/pages/HomePage.css' ;
 const HomePage = (props) => {
     return (
 <main className="holder">
@@ -45,11 +46,10 @@ const HomePage = (props) => {
     </div>
 
 </main>
-
-
         
     );
 
+    
 }
 
 export default HomePage;

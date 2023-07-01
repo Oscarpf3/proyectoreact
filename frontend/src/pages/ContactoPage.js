@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/components/pages/ContactoPage.css' ;
 const ContactoPage = (props) => {
     return (
         <main className="holder contacto">
@@ -43,5 +44,6 @@ const ContactoPage = (props) => {
     );
 
 }
+
 
 export default ContactoPage;

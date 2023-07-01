@@ -1,0 +1,41 @@
+
+nav {
+    background-color: rgb(218, 80, 80);
+    margin-bottom: 20px;
+
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+
+nav li {
+    flex-grow: 1;
+
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background-color:rgb(246, 159, 144);
+}
+
+nav ul li a.activo {
+    background-color: rgb(246, 159, 144);
+}
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+  
+  } 

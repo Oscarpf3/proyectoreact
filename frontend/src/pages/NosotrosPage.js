@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/components/pages/NosotrosPage.css' ;
 const NosotrosPage = (props) => {
     return (
         <main className="holder">
@@ -12,7 +13,7 @@ const NosotrosPage = (props) => {
                     cumpleaños, una reunión familiar o cualquier otro evento, estaré encantada de poner mis habilidades
                     y conocimientos a tu servicio.
                 </p>
-                <div className="img.nosotros">
+                <div className="gl">
         <img src="img/nosotros/mama_rie.jpeg"/>
 </div>
 </div>
