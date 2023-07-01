@@ -1,0 +1,31 @@
+.bienvenidos {
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+
+}
+
+.testimonios {
+    width: 25%;
+
+}
+
+.columnas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bienvenidos p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+h2 {
+    color:tomato;
+    font-weight: 400px; }
+
+    .holder {
+        max-width: 100  0px;
+        margin: 0 auto;
+      
+      } 
