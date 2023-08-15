@@ -10,6 +10,7 @@ const Nav = (props) => {
                     <li><NavLink to="/nosotros" className={({ isActive}) => isActive ? "activo": undefined } >Nosotros</NavLink></li>
                     <li><NavLink to="/servicios"  className={({ isActive}) => isActive ? "activo": undefined } >Servicios</NavLink></li>
                     <li><NavLink to="/contacto" className={({ isActive}) => isActive ? "activo": undefined } >Contacto</NavLink></li>
+                    <li><NavLink to="/novedades" className={({ isActive}) => isActive ? "activo": undefined } >Novedades</NavLink></li>
 
                 </ul>
 

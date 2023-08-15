@@ -10,6 +10,7 @@ import ContactoPage from './pages/ContactoPage';
 import HomePage from './pages/HomePage';
 import NosotrosPage from './pages/NosotrosPage';
 import ServiciosPage from './pages/ServiciosPage';
+import NovedadesPage from "./pages/NovedadesPage";
 
 
 
@@ -24,6 +25,7 @@ function App() {
           <Route path="nosotros" element={<NosotrosPage />} />
           <Route path="servicios" element={<ServiciosPage />} />
           <Route path="contacto" element={<ContactoPage />} />
+          <Route path="novedades" element={<NovedadesPage />} />
         </Routes>
 
       </BrowserRouter>
