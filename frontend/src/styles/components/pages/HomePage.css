@@ -21,11 +21,13 @@
 }
 
 h2 {
-    color:tomato;
-    font-weight: 400px; }
+    color: tomato;
+    font-weight: 400px;
+}
 
-    .holder {
-        max-width: 100  0px;
-        margin: 0 auto;
-      
-      } 
+.holder {
+    max-width: 100 0px;
+    margin: 0 auto;
+
+}
+
